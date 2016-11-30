@@ -269,7 +269,7 @@ diagram: "wiringDiagram750placeholder.jpg"
 
 
 <img src="./photo/jpfs_DSC2806.jpg">
-<p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver.</p>
+<p>Prepare the drag chain lengths by popping open the hinges using a flat head screw driver. (Note one side has a graphic of a screw driver tip. You want to open from this side. The other side is a hinge, which is easily damaged)</p>
 <img src="./photo/jpfs_DSC2812.jpg">
 <img src="./photo/jpfs_DSC2834.jpg">
 <p>Locate the end of the drag chain, two flat head cap screws, and two post-assembly insertion nuts. Add the post-assembly insertion nuts into the extrusion located behind the wide MakerSlide.</p>
